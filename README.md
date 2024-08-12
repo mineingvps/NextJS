@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+โปรเจ็คนี้สร้างด้วย NextJS ทำการดึง API มาแสดงผลเป็น Frontend จาก https://66348a3c9bb0df2359a1d3a2.mockapi.io/api/v1/users
 
 ## Getting Started
 
@@ -11,3 +11,6 @@ npm run dev
 yarn dev
 ```
 
+## Photo
+![Photo](https://raw.githubusercontent.com/mineingvps/NextJS/main/Screenshot%202567-08-12%20at%2017.18.01.png)
+![Photo](https://raw.githubusercontent.com/mineingvps/NextJS/main/Screenshot%202567-08-12%20at%2017.29.12.png)
